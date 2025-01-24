@@ -11,9 +11,7 @@ __pycache__/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore temporary or OS files
-.DS_Store
-Thumbs.db
+
 *.csv
 data/*.csv
 
